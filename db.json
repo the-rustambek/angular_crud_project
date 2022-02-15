@@ -1,0 +1,40 @@
+{
+  "productList": [
+    {
+      "productName": "Redmi Not 9",
+      "category": "Redmi",
+      "condition": "New",
+      "price": "Redmi Not 9",
+      "comment": "Redmi Not 9",
+      "date": "2022-02-27T19:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "macccc",
+      "category": "Samsung",
+      "condition": "Second",
+      "price": "7887",
+      "comment": "adadadaad",
+      "date": "2022-02-15T19:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "nma gap",
+      "category": "Samsung",
+      "condition": "New",
+      "price": "7878",
+      "comment": "98989adadada",
+      "date": "2022-02-23T19:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "abdulla",
+      "category": "Samsung",
+      "condition": "Second",
+      "price": "salomjon",
+      "comment": "salomjon",
+      "date": "2022-02-14T19:00:00.000Z",
+      "id": 6
+    }
+  ]
+}
